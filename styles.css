@@ -2,10 +2,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
     background-color: #FFFFFF;
-    padding-top: 10em;
+    padding-top: 5em;
 }
   
 .flag-container {
