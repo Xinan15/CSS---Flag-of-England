@@ -1,3 +1,5 @@
-# CSS---Flag-of-England
-CSS practice: Flag of England
-<br>https://xinan15.github.io/CSS---Flag-of-England/
+## England Flag CSS Drawing
+This practice demonstrates using position, transform, and other CSS properties to position elements to draw the flag's iconic cross.
+
+## Screenshot
+<img src="screenshot.png" alt="screenshot" width="500"/>
